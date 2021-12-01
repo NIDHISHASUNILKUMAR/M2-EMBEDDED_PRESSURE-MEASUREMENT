@@ -14,14 +14,14 @@
 
 int main(void)
 {
-    uint16_t temp;
+    uint16_t pressure;
         if(activity1_LED()==1) //Check if both the switches are pressed
         {
            
             TurnLED_ON();//Turn LED ON
-            temp=activity2_GetADC(); //Get the ADC value
-            activity3_PWM(temp); //PWM output based on temperature
-		    activity3_USARTWrite(temp); //To Serial monitor to print Temperature
+            pressure=activity2_GetADC(); //Get the ADC value
+            activity3_PWM(pressure); //PWM output based on pressure
+		    activity3_USARTWrite(pressure); //To Serial monitor to print pressure
             
 
         }
