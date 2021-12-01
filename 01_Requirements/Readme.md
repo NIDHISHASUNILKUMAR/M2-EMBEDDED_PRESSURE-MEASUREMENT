@@ -54,8 +54,6 @@ Most of the people know about this features but we need to prove the importance 
 
 ## High level requirements:
 
-## S.no   | High level requirement  | Description  | Status |
-
 
 
 
