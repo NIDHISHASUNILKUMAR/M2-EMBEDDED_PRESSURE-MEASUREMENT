@@ -67,8 +67,8 @@ int USARTRead();
 /**
  * @brief Writing data to view in serial monitor
  * 
- * @param[in] temp The ADC value
+ * @param[in] pressure The ADC value
  */
-void activity3_USARTWrite(uint16_t temp);
+void activity3_USARTWrite(uint16_ pressure );
 
 #endif /* __ACTIVITY_3_H__ */
