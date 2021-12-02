@@ -135,16 +135,7 @@ do {
 
 }
 
-/**
- * @file main.c
- * @author your name (achyuthrudru1999@gamil.com)
- * @brief 
- * @version 0.1
- * @date 2021-09-16
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 #include "activity1.h"
 #include "activity2.h"
 #include "activity3.h"
