@@ -69,6 +69,19 @@ SL.NO    | High level requirements | Description | Status
 3|LR3|Buzzer|Done
 
 
+# Design:
+
+## Flowchart:
+
+![pressureflowchart1](https://user-images.githubusercontent.com/94303567/144361198-b1947fb5-e149-4285-a5c2-3732ebb26735.jpg)
+
+## Block diagram:
+
+![pressure block diagram](https://user-images.githubusercontent.com/94303567/144361362-ff3585c7-f65f-41c9-a63d-98f9c762ff43.jpg)
+
+
+
+
 
 
 
