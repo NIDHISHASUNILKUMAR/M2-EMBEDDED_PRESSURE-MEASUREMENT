@@ -31,7 +31,7 @@ Lcd_Init(); // Initialize LCD
  Lcd_Cmd(_LCD_CURSOR_OFF); // Cursor off
 
 Lcd_Out(1, 1, "microcontrollers"); // Display "StudentCompanion"
- Lcd_Out(2, 1, "lab.com"); // Display "Thermometer"
+ Lcd_Out(2, 1, "lab.com"); // Display "barometer"
  Delay_ms(2000); // 2 Second delay
  Lcd_Cmd(_LCD_CLEAR); // Clear display
 
